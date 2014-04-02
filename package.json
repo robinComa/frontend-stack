@@ -1,0 +1,26 @@
+{
+    "name": "data-processing",
+    "version": "0.0.0",
+    "dependencies": {},
+    "devDependencies": {
+        "gulp": "latest",
+        "gulp-livereload": "latest",
+        "gulp-concat": "latest",
+        "gulp-jshint": "latest",
+        "gulp-strip-debug": "latest",
+        "gulp-uglify": "latest",
+        "node-static": "latest",
+        "gulp-plumber": "latest",
+        "gulp-open": "latest",
+        "gulp-karma": "latest",
+        "karma-jasmine": "latest",
+        "karma-phantomjs-launcher": "latest",
+        "gulp-replace": "latest",
+        "gulp-clean": "latest",
+        "gulp-sass": "latest",
+        "gulp-angular-templatecache": "latest"
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}

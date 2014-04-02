@@ -1,0 +1,42 @@
+{
+    "name": "frontend-stack",
+    "version": "0.0.1",
+    "license": "MIT",
+
+    "description": "",
+
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:robinComa/frontend-stack.git"
+    },
+
+    "authors": [{
+        "name": "Robin Coma Delperier",
+        "homepage": "http://fr.linkedin.com/pub/robin-coma-delp%C3%A9rier/59/943/344"
+    }],
+
+    "keywords": [
+        "frontend",
+        "stack",
+        "node",
+        "gulp",
+        "bower",
+        "sass",
+        "angular",
+        "bootstrap"
+    ],
+
+    "dependencies": {
+        "modernizr": "latest",
+        "json3": "latest",
+        "es5-shim": "latest",
+        "respond": "latest",
+        "bootstrap": "latest",
+        "angular": "latest",
+        "angular-route": "latest",
+        "angular-resource": "latest"
+    },
+    "devDependencies": {
+
+    }
+}
